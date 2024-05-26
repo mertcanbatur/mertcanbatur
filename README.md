@@ -44,10 +44,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mertcanbatur/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
