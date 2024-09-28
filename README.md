@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a sophomore in mechanical engineering, but due to my interest in software and web development, <br>I am working as a Frontend Developer.</p>
+<p align="center">I am a third-year in mechanical engineering, but due to my interest in software and web development, <br>I am working as a Frontend Developer.</p>
 
 ###
 
