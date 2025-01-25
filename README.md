@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning : ReactJs, NextJs and Python</p>
+<p align="left">📚 I'm currently learning :NextJs and Python</p>
 
 ###
 
